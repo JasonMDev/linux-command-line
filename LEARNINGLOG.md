@@ -42,11 +42,13 @@
 - [x] S4: Redirecting Standard Input
 - [x] S5: Pipelines
 
-
-## Chapter 6: Seeing The World As The Shell Sees It
+## Chapter 7: Seeing The World As The Shell Sees It
 - [x] S1: Expansion
 - [x] S2: Quoting
 
+## Chapter 8: Redirection
+- [x] S1: Command Line Editing
+- [x] S2: Using History
 
 
 ## Chapter 1: Title
