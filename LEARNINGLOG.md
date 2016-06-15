@@ -34,19 +34,15 @@
 - [x] S2: Identifying Commands
 - [x] S3: Getting A Command's Documentation
 - [x] S4: Creating Your Own Commands With alias
-- [x] S5: rm – Remove Files And Directories
-- [x] S6: ln – Create Links
-- [x] S7: Let's Build A Playground
 
-## Chapter 6: Manipulating Files And Directories
-- [x] S1: Wildcards
-- [x] S2: mkdir – Create Directories
-- [x] S3: cp – Copy Files And Directories
-- [x] S4: mv – Move And Rename Files
-- [x] S5: rm – Remove Files And Directories
-- [x] S6: ln – Create Links
-- [x] S7: Let's Build A Playground
+## Chapter 6: Redirection
+- [x] S1: Standard Input, Output, And Error
+- [x] S2: Redirecting Standard Output
+- [x] S3: Redirecting Standard Error
+- [x] S4: Redirecting Standard Input
+- [x] S5: Pipelines
 
+Seeing The World As The Shell Sees It
 20160614
 chapter 1
 
