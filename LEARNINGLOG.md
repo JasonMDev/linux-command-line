@@ -42,13 +42,10 @@
 - [x] S4: Redirecting Standard Input
 - [x] S5: Pipelines
 
-Seeing The World As The Shell Sees It
-20160614
-chapter 1
 
-chapter 2
-3
-4
+## Chapter 6: Seeing The World As The Shell Sees It
+- [x] S1: Expansion
+- [x] S2: Quoting
 
 
 
