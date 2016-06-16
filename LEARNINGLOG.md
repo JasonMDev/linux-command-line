@@ -50,6 +50,13 @@
 - [x] S1: Command Line Editing
 - [x] S2: Using History
 
+## Chapter 9: Permissions
+- [x] S1: Owners, Group Members, And Everybody Else
+- [x] S2: Reading, Writing, And Executing
+- [x] S3: Changing Identities
+- [x] S4: Exercising Our Privileges
+- [x] S5: Changing Your Password
+- [x] S: 
 
 ## Chapter 1: Title
 ### Section 1: Title
@@ -57,3 +64,5 @@
 - [x] File: path.ext
  - [x] Text.
  - [ ] Text.
+
+ - [x] S: 
