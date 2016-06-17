@@ -56,7 +56,13 @@
 - [x] S3: Changing Identities
 - [x] S4: Exercising Our Privileges
 - [x] S5: Changing Your Password
-- [x] S: 
+
+## Chapter 10: Processes
+- [x] S1: How A Process Works
+- [x] S2: Viewing Processes
+- [x] S3: Controlling Processes
+- [x] S4: Signals
+- [x] S5: More Process Related Commands
 
 ## Chapter 1: Title
 ### Section 1: Title
