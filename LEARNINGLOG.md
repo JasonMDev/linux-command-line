@@ -69,6 +69,7 @@
 ## Part 2 – Configuration And The Environment
 ### Chapter 11: The Environment
 - [ ] Todo
+
 ### Chapter 12: A Gentle Introduction To vi
 - [ ] Todo
 
@@ -82,13 +83,3 @@
 
 ## Part 4 – Writing Shell Scripts
 - [ ] Todo
-
-
-## Chapter 1: Title
-### Section 1: Title
-#### Sub-section 1: Title
-- [x] File: path.ext
- - [x] Text.
- - [ ] Text.
-
- - [x] S: 
