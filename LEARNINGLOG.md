@@ -68,7 +68,9 @@
 
 ## Part 2 – Configuration And The Environment
 ### Chapter 11: The Environment
-- [ ] Todo
+- [x] S1: What Is Stored In The Environment?
+- [x] S2: How Is The Environment Established?
+- [x] S3: Modifying The Environment
 
 ### Chapter 12: A Gentle Introduction To vi
 - [ ] Todo
