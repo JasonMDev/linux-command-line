@@ -130,17 +130,12 @@
 - [x] S8: Quantifiers
 - [x] S9: Putting Regular Expressions To Work
 
-### Chapter XX: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
-- [x] S: 
+### Chapter 20: Text Processing
+- [x] S1: Applications Of Text
+- [x] S2: Revisiting Some Old Friends
+- [x] S3: Slicing And Dicing
+- [x] S4: Comparing Text
+- [x] S5: Editing On The Fly
 
 ### Chapter XX: 
 - [x] S: 
