@@ -114,6 +114,11 @@
 - [x] S1: locate – Find Files The Easy Way
 - [x] S2: find – Find Files The Hard Way
 
+### Chapter 18: Archiving And Backup
+- [x] S1: Compressing Files
+- [x] S2: Archiving Files
+- [x] S3: Synchronizing Files And Directories
+
 ### Chapter XX: 
 - [x] S: 
 - [x] S: 
