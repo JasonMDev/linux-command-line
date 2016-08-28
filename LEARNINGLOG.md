@@ -105,5 +105,22 @@
 - [x] S6: Creating CD-ROM Images
 - [x] S7: Writing CD-ROM Images
 
+### Chapter 16: Networking
+- [x] S1: Examining And Monitoring A Network
+- [x] S2: Transporting Files Over A Network
+- [x] S3: Secure Communication With Remote Hosts
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
 ## Part 4 – Writing Shell Scripts
 - [ ] Todo
