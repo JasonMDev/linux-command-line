@@ -83,7 +83,11 @@
 - [x] S8: Saving Our Work
 
 ### Chapter 13: Customizing The Prompt
-- [ ] Todo
+- [x] S1: Anatomy Of A Prompt
+- [x] S2: Trying Some Alternative Prompt Designs
+- [x] S3: Adding Color
+- [x] S4: Moving The Cursor
+- [x] S5: Saving The Prompt
 
 
 ## Part 3 – Common Tasks And Essential Tools
