@@ -119,6 +119,77 @@
 - [x] S2: Archiving Files
 - [x] S3: Synchronizing Files And Directories
 
+### Chapter 19: Regular Expressions
+- [x] S1: grep
+- [x] S2: Metacharacters And Literals
+- [x] S3: The Any Character
+- [x] S4: Anchors
+- [x] S5: Bracket Expressions And Character Classes
+- [x] S6: POSIX Basic Vs. Extended Regular Expressions
+- [x] S7: Alternation
+- [x] S8: Quantifiers
+- [x] S9: Putting Regular Expressions To Work
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
+### Chapter XX: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+- [x] S: 
+
 ### Chapter XX: 
 - [x] S: 
 - [x] S: 
