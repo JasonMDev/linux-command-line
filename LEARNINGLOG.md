@@ -110,6 +110,10 @@
 - [x] S2: Transporting Files Over A Network
 - [x] S3: Secure Communication With Remote Hosts
 
+### Chapter 17: Searching For Files
+- [x] S1: locate – Find Files The Easy Way
+- [x] S2: find – Find Files The Hard Way
+
 ### Chapter XX: 
 - [x] S: 
 - [x] S: 
