@@ -96,6 +96,14 @@
 - [x] S2: How A Package System Works
 - [x] S3: Common Package Management Tasks
 
+### Chapter 15: Storage Media
+- [x] S1: Mounting And Unmounting Storage Devices
+- [x] S2: Creating New File Systems
+- [x] S3: Testing And Repairing File Systems
+- [x] S4: Formatting Floppy Disks
+- [x] S5: Moving Data Directly To/From Devices
+- [x] S6: Creating CD-ROM Images
+- [x] S7: Writing CD-ROM Images
 
 ## Part 4 – Writing Shell Scripts
 - [ ] Todo
