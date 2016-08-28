@@ -91,7 +91,10 @@
 
 
 ## Part 3 – Common Tasks And Essential Tools
-- [ ] Todo
+### Chapter 14: Package Management
+- [x] S1: Packaging Systems
+- [x] S2: How A Package System Works
+- [x] S3: Common Package Management Tasks
 
 
 ## Part 4 – Writing Shell Scripts
