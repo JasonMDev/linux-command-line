@@ -73,7 +73,14 @@
 - [x] S3: Modifying The Environment
 
 ### Chapter 12: A Gentle Introduction To vi
-- [ ] Todo
+- [x] S1: Why We Should Learn vi
+- [x] S2: A Little Background
+- [x] S3: Starting And Stopping vi
+- [x] S4: Editing Modes
+- [x] S5: Basic Editing
+- [x] S6: Search-And-Replace
+- [x] S7: Editing Multiple Files
+- [x] S8: Saving Our Work
 
 ### Chapter 13: Customizing The Prompt
 - [ ] Todo
